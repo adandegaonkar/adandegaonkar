@@ -1,4 +1,3 @@
-## Interested in 
 ## Technology Transformation
 ## Application Security
 ## Team Building
